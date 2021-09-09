@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: S
 
 # SEO
 
@@ -20,8 +20,8 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: blaine@northwestern.edu
+phone: 812.361.2453
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -63,7 +63,7 @@ main_menu:
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: false
   highlight_active_link: true
 
 # Localization
